@@ -1,0 +1,10 @@
+D:\Mumtaz .Net Module\DBLibrary\DBLibrary\DBLibrary\bin\Debug\DBLibrary.dll
+D:\Mumtaz .Net Module\DBLibrary\DBLibrary\DBLibrary\bin\Debug\DBLibrary.pdb
+D:\Mumtaz .Net Module\DBLibrary\DBLibrary\DBLibrary\obj\Debug\DBLibrary.dll
+D:\Mumtaz .Net Module\DBLibrary\DBLibrary\DBLibrary\obj\Debug\DBLibrary.pdb
+D:\Mumtaz .Net Module\DBLibrary\DBLibrary\DBLibrary\obj\Debug\DBLibrary.csprojResolveAssemblyReference.cache
+D:\Mumtaz\.net module\DBLibrary\DBLibrary\DBLibrary\bin\Debug\DBLibrary.dll
+D:\Mumtaz\.net module\DBLibrary\DBLibrary\DBLibrary\bin\Debug\DBLibrary.pdb
+D:\Mumtaz\.net module\DBLibrary\DBLibrary\DBLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Mumtaz\.net module\DBLibrary\DBLibrary\DBLibrary\obj\Debug\DBLibrary.dll
+D:\Mumtaz\.net module\DBLibrary\DBLibrary\DBLibrary\obj\Debug\DBLibrary.pdb
